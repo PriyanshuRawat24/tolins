@@ -24,7 +24,7 @@ const Footer = () => {
                             <Link href="/" className="inline-flex items-center">
                                 <div className="flex items-center">
                                     <Image
-                                        src="/logo.png"
+                                        src="/Logo.png"
                                         alt="Logo"
                                         width={150}
                                         height={50}
