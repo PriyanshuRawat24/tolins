@@ -61,7 +61,7 @@ const Header = () => {
                     className="h-auto w-[150px]"
                     width={100}
                     height={100}
-                    src="/logo.png"
+                    src="/Logo.png"
                     alt="Company Logo"
                     priority
                   />
